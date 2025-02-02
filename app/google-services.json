@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44625451573",
+    "firebase_url": "https://proyectochatfirebase-bdc64-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "proyectochatfirebase-bdc64",
+    "storage_bucket": "proyectochatfirebase-bdc64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44625451573:android:16ced31d7974c2d3e76f7c",
+        "android_client_info": {
+          "package_name": "com.example.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44625451573-dj9s4h7ttroanu3968q8hbhvfapogc53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7X3VRJND_GT9ukS90zQfdg8iIGCmlCwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44625451573-dj9s4h7ttroanu3968q8hbhvfapogc53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
